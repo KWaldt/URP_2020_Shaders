@@ -1,0 +1,312 @@
+Using pre-set license
+Built from '2020.2/staging' branch; Version is '2020.2.7f1 (c53830e277f1) revision 12924976'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.928; Version 2009; 64bit' Language: 'en' Physical Memory: 32702 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\UnityVersions\2020.2.7f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/GitHub/URP_2020_Shaders
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+51640
+Successfully changed project path to: D:/GitHub/URP_2020_Shaders
+D:/GitHub/URP_2020_Shaders
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 47.69 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.7f1 (c53830e277f1)
+[Subsystems] Discovering subsystems at path C:/Program Files/UnityVersions/2020.2.7f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/GitHub/URP_2020_Shaders/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2080 Ti (ID=0x1e07)
+    Vendor:   
+    VRAM:     11048 MB
+    Driver:   27.21.14.5671
+Initialize mono
+Mono path[0] = 'C:/Program Files/UnityVersions/2020.2.7f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/UnityVersions/2020.2.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/UnityVersions/2020.2.7f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56276
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/UnityVersions/2020.2.7f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/UnityVersions/2020.2.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001559 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 41.78 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.906 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001283 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 44.91 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.217 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2900 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 134.2 MB.
+System memory in use after: 132.0 MB.
+
+Unloading 126 unused Assets to reduce memory usage. Loaded Objects now: 3304.
+Total: 4.669100 ms (FindLiveObjects: 0.521200 ms CreateObjectMapping: 0.270500 ms MarkObjects: 2.634400 ms  DeleteObjects: 1.241600 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/_Project/Shaders/Skybox/FlatGradientSkybox_001.mat
+  artifactKey: Guid(abb3c5ec14fd0de4aad7fc2cb9c76c57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Shaders/Skybox/FlatGradientSkybox_001.mat using Guid(abb3c5ec14fd0de4aad7fc2cb9c76c57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8db2e59dee9233c19df24493a063cbb') in 0.183660 seconds
+  Import took 0.187677 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 78.965048 seconds.
+  path: Assets/_Project/Shaders/InClassPixel.mat
+  artifactKey: Guid(32c1a4994a3557340a995114af0ffd9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Shaders/InClassPixel.mat using Guid(32c1a4994a3557340a995114af0ffd9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8dd7f7d6ade68e3276b87a9e4927efa') in 0.010566 seconds
+  Import took 0.014695 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/_Project/Shaders/CustomHardLighting.shadergraph
+  artifactKey: Guid(7b5c52a4c25101942931bc05079474a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Shaders/CustomHardLighting.shadergraph using Guid(7b5c52a4c25101942931bc05079474a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9905b0f01f17752f340f5f19f2193af9') in 0.008059 seconds
+  Import took 0.011584 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.961242 seconds.
+  path: Assets/_Project/Shaders/CustomToonLighting.shadergraph
+  artifactKey: Guid(c4ef85c2f77251b4c95ed1f90b8ea620) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Shaders/CustomToonLighting.shadergraph using Guid(c4ef85c2f77251b4c95ed1f90b8ea620) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fef96bab0e9762c18c1441871abb3a4e') in 0.001552 seconds
+  Import took 0.019385 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.196578 seconds.
+  path: Assets/_Project/Shaders/FlatUnlit.shadergraph
+  artifactKey: Guid(58335a20902042d4a9d9008980b98ebb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Shaders/FlatUnlit.shadergraph using Guid(58335a20902042d4a9d9008980b98ebb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06a747262006619ec323d226a5994a3e') in 0.001647 seconds
+  Import took 0.005534 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.347244 seconds.
+  path: Assets/_Project/Shaders/InClassPixel.shadergraph
+  artifactKey: Guid(9e3ab4ab4ed8d4c49bcb755810353681) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Shaders/InClassPixel.shadergraph using Guid(9e3ab4ab4ed8d4c49bcb755810353681) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5701617a54ff7bbefaed713fa93bc47f') in 0.001567 seconds
+  Import took 0.005301 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.554969 seconds.
+  path: Assets/_Project/Shaders/PseudoPixel.shadergraph
+  artifactKey: Guid(293f9c2c78d67494aad132925d2be25d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Shaders/PseudoPixel.shadergraph using Guid(293f9c2c78d67494aad132925d2be25d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20ec833967cc48216c92051befe90aca') in 0.001960 seconds
+  Import took 0.005749 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.629822 seconds.
+  path: Assets/_Project/Shaders/FlatUnlit.shadergraph
+  artifactKey: Guid(58335a20902042d4a9d9008980b98ebb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Shaders/FlatUnlit.shadergraph using Guid(58335a20902042d4a9d9008980b98ebb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be1f824cee31cbde868ad342b275fdaf') in 0.001424 seconds
+  Import took 0.005238 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 31.832524 seconds.
+  path: Assets/_Project/Shaders/FlatUnlit.shadergraph
+  artifactKey: Guid(58335a20902042d4a9d9008980b98ebb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Shaders/FlatUnlit.shadergraph using Guid(58335a20902042d4a9d9008980b98ebb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8277efcdfbef515ffabc91532bd59cb7') in 0.001556 seconds
+  Import took 0.015337 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011536 seconds.
+  path: Assets/_Project/Shaders/FlatUnlit.shadergraph
+  artifactKey: Guid(58335a20902042d4a9d9008980b98ebb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Shaders/FlatUnlit.shadergraph using Guid(58335a20902042d4a9d9008980b98ebb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8277efcdfbef515ffabc91532bd59cb7') in 0.001520 seconds
+  Import took 0.005564 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 214.178928 seconds.
+  path: Assets/_Project/Shaders/Functions
+  artifactKey: Guid(54b07f1946235a640b9bdc3af92ce479) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Shaders/Functions using Guid(54b07f1946235a640b9bdc3af92ce479) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf728eef35e3350272a090305c1823d9') in 0.001294 seconds
+  Import took 0.005788 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.551735 seconds.
+  path: Assets/_Project/Shaders/2D
+  artifactKey: Guid(8630d7465ad527047a2ea04710433d32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Shaders/2D using Guid(8630d7465ad527047a2ea04710433d32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd76159998df4415af32824c5abfd2e6') in 0.001657 seconds
+  Import took 0.033259 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.710151 seconds.
+  path: Assets/_Project/Shaders/FlatUnlit.shadergraph
+  artifactKey: Guid(58335a20902042d4a9d9008980b98ebb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Shaders/FlatUnlit.shadergraph using Guid(58335a20902042d4a9d9008980b98ebb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b0762c52986748d44afd092e4ee5714') in 0.001582 seconds
+  Import took 0.006240 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 304.887875 seconds.
+  path: Assets/_Project/Shaders/CustomHardLighting.shadergraph
+  artifactKey: Guid(7b5c52a4c25101942931bc05079474a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Shaders/CustomHardLighting.shadergraph using Guid(7b5c52a4c25101942931bc05079474a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11c229e93e319bac92082f15677ed6ed') in 0.001639 seconds
+  Import took 0.021572 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 295.270551 seconds.
+  path: Assets/_Project/Shaders/FlatUnlit.shadergraph
+  artifactKey: Guid(58335a20902042d4a9d9008980b98ebb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Shaders/FlatUnlit.shadergraph using Guid(58335a20902042d4a9d9008980b98ebb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3aabb29d62cac12a975ebda8e18aa908') in 0.001688 seconds
+  Import took 0.013311 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009742 seconds.
+  path: Assets/_Project/Shaders/FlatUnlit.shadergraph
+  artifactKey: Guid(58335a20902042d4a9d9008980b98ebb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Shaders/FlatUnlit.shadergraph using Guid(58335a20902042d4a9d9008980b98ebb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3aabb29d62cac12a975ebda8e18aa908') in 0.001751 seconds
+  Import took 0.005919 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 157.418705 seconds.
+  path: Assets/_Project/Shaders/Functions/LightDir.shadersubgraph
+  artifactKey: Guid(a9186357b9d324d40a4e702074871a4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Shaders/Functions/LightDir.shadersubgraph using Guid(a9186357b9d324d40a4e702074871a4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c08ade1c86e6b82192ef95b0845668b') in 0.004526 seconds
+  Import took 0.026679 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/_Project/Shaders/Functions/NormalsToGreyscale.shadersubgraph
+  artifactKey: Guid(5cd57e2a8d285244f8282fd7c8603c5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Shaders/Functions/NormalsToGreyscale.shadersubgraph using Guid(5cd57e2a8d285244f8282fd7c8603c5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99e35083f739297864a27c4a1f91eb3f') in 0.001616 seconds
+  Import took 0.010908 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.958732 seconds.
+  path: Assets/_Project/Shaders/Functions/ColorToGreyscale.shadersubgraph
+  artifactKey: Guid(5cd57e2a8d285244f8282fd7c8603c5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Shaders/Functions/ColorToGreyscale.shadersubgraph using Guid(5cd57e2a8d285244f8282fd7c8603c5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d0dfda384f4db989b701c08b400a33e') in 0.004188 seconds
+  Import took 0.015694 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 55.840308 seconds.
+  path: Assets/_Project/Shaders/Functions/NormalsToGreyscale.shadersubgraph
+  artifactKey: Guid(5cd57e2a8d285244f8282fd7c8603c5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Shaders/Functions/NormalsToGreyscale.shadersubgraph using Guid(5cd57e2a8d285244f8282fd7c8603c5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc9cb65491161f33e5850e67a73e5ce8') in 0.001707 seconds
+  Import took 0.015671 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.993238 seconds.
+  path: Assets/_Project/Shaders/FlatUnlit.shadergraph
+  artifactKey: Guid(58335a20902042d4a9d9008980b98ebb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Shaders/FlatUnlit.shadergraph using Guid(58335a20902042d4a9d9008980b98ebb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61c383790a7ca4ad0992d380dfabec88') in 0.001578 seconds
+  Import took 0.005884 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 385.512792 seconds.
+  path: Assets/_Project/Shaders/Skybox/FlatGradientSkybox.shadergraph
+  artifactKey: Guid(fe25dd860974d6f4d842e00618726b3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Shaders/Skybox/FlatGradientSkybox.shadergraph using Guid(fe25dd860974d6f4d842e00618726b3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bca980706670e6d2cd04b8b77e83ac9c') in 0.001792 seconds
+  Import took 0.006449 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.378980 seconds.
+  path: Assets/_Project/Material/Skybox
+  artifactKey: Guid(722a5e83f437dd14a8a0c4f9d259a47a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Material/Skybox using Guid(722a5e83f437dd14a8a0c4f9d259a47a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddfa272e5228d48c69ead88767fde108') in 0.001454 seconds
+  Import took 0.011011 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.472705 seconds.
+  path: Assets/_Project/Material/Default
+  artifactKey: Guid(986fac7e9ddcc734bb9531e6c9e60c1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Material/Default using Guid(986fac7e9ddcc734bb9531e6c9e60c1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd65a336bbf5c6e87eb8bb1d5059d7733') in 0.001251 seconds
+  Import took 0.010862 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000903 seconds.
+  path: Assets/_Project/Material/Default
+  artifactKey: Guid(986fac7e9ddcc734bb9531e6c9e60c1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Material/Default using Guid(986fac7e9ddcc734bb9531e6c9e60c1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd65a336bbf5c6e87eb8bb1d5059d7733') in 0.001805 seconds
+  Import took 0.005750 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.998933 seconds.
+  path: Assets/_Project/Material/Pixel
+  artifactKey: Guid(2b5271c184897b34592d5fbb7f6a2829) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Material/Pixel using Guid(2b5271c184897b34592d5fbb7f6a2829) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3e0984b44b115ef33b05eff4c988413') in 0.001361 seconds
+  Import took 0.007176 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 101.199576 seconds.
+  path: Assets/_Project/Shaders/2D/PseudoPixel.shadergraph
+  artifactKey: Guid(293f9c2c78d67494aad132925d2be25d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Shaders/2D/PseudoPixel.shadergraph using Guid(293f9c2c78d67494aad132925d2be25d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '117806f3f4c1486133dd9b03bd156fbd') in 0.001602 seconds
+  Import took 0.005740 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.803022 seconds.
+  path: Assets/_Project/Shaders/Skybox/FlexibleVolumetricGradientSkybox.shadergraph
+  artifactKey: Guid(20c456ac33968b841af0e5bc444a881a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Shaders/Skybox/FlexibleVolumetricGradientSkybox.shadergraph using Guid(20c456ac33968b841af0e5bc444a881a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36709a61184ee74b96c75fb5d4117be9') in 0.001866 seconds
+  Import took 0.148146 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.966463 seconds.
+  path: Assets/_Project/Shaders/Skybox/VolumetricGradientSkybox.shadergraph
+  artifactKey: Guid(5db19feda113a764490fa381fa2b9ebb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Shaders/Skybox/VolumetricGradientSkybox.shadergraph using Guid(5db19feda113a764490fa381fa2b9ebb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed408621bc0c4564c9ef71460a69cff0') in 0.001573 seconds
+  Import took 0.005392 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
